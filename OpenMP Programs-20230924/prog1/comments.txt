@@ -1,0 +1,1 @@
+Here in this code due to locking and realesing all the processors execute the code sequentially and not parallely.

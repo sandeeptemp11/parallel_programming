@@ -1,0 +1,2 @@
+why i am getting 0, for non-master threads.
+It should be also uninitalized write.
